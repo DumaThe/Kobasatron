@@ -1,0 +1,9 @@
+SVINJOKOLJA - IZRADA APK
+
+1. Otvorite mapu Kobasatron-Android-final u Android Studiju.
+2. Dopustite Gradle Sync i instalaciju Android SDK 35 ako je potrebno.
+3. Izbornik Build > Build Bundle(s) / APK(s) > Build APK(s).
+4. APK se nalazi u app/build/outputs/apk/debug/app-debug.apk.
+5. Prenesite APK na Android telefon i instalirajte.
+
+NAPOMENA: APK nije kompajliran niti testiran u ovom okruzenju. Podaci su lokalni u WebView pohrani. Napravite sigurnosnu kopiju prije zamjene aplikacije.

@@ -1,0 +1,1 @@
+Kobasatron: projekt spreman za GitHub Actions. Napravi privatni repozitorij, prenesi sadrzaj ZIP-a u korijen repozitorija. U Actions > Izradi Kobasatron APK > Run workflow pokreni izradu. APK se preuzima u Artifacts kao Kobasatron-APK.

@@ -1,0 +1,1 @@
+Otvorite ovu mapu u Android Studio > Open. Pričekajte Gradle Sync. Build > Build APK(s). APK: app/build/outputs/apk/debug/app-debug.apk. Fotografije se spremaju u IndexedDB unutar aplikacije. Gumb Fotografiraj koristi Androidov odabir kamere ako ga uređaj ponudi. Za zajamčeno izravno snimanje kamerom potrebna je dodatna native Camera implementacija.
